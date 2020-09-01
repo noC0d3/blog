@@ -106,6 +106,7 @@
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gtqGMkkvu2x29CrEu7yGx92jzE" />
@@ -118,6 +119,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -134,11 +137,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598944139864</updated>
-      <workItem from="1598944140966" duration="341000" />
+      <workItem from="1598944140966" duration="3553000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2228" y="202" key="#PHP_CodeSniffer" timestamp="1598945305728">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2228" y="202" key="#PHP_CodeSniffer/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598945305728" />
+    <state x="2453" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1598947350748">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2453" y="263" key="#com.intellij.ide.util.MemberChooser/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598947350748" />
+    <state x="2377" y="337" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598946245799">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2377" y="337" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598946245799" />
+    <state x="2402" y="416" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598945461970">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2402" y="416" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598945461970" />
+    <state x="2373" y="273" key="NewPhpClassDialog" timestamp="1598946249985">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2373" y="273" key="NewPhpClassDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598946249985" />
+    <state x="2149" y="179" key="SettingsEditor" timestamp="1598945597666">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2149" y="179" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1598945375011" />
+    <state x="2149" y="179" key="SettingsEditor/1680.0.1920.1080/0.23.1680.954@1680.0.1920.1080" timestamp="1598945597666" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
